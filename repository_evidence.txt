@@ -7,7 +7,9 @@ development
 * main
 
 Commit history:
-* 23a1586 (HEAD -> main) Add professional defense deck
+* b15d044 (HEAD -> main) Update defense deck scenario chart
+* ecca37c Refresh repository evidence
+* 23a1586 Add professional defense deck
 * 533a58d Document repository evidence
 *   e5d2066 Merge development evidence
 |\  
