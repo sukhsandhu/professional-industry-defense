@@ -1,21 +1,25 @@
-Local Version-Control Evidence
+Public GitHub Repository Evidence
 
 Author: Sukh Sandhu
+Repository: https://github.com/sukhsandhu/professional-industry-defense
 
 Branches:
 development
 * main
+  remotes/origin/development
+  remotes/origin/main
 
 Commit history:
-* b15d044 (HEAD -> main) Update defense deck scenario chart
+* cf33e3e (HEAD -> main, origin/main) Finalize defense deck and repository evidence
+* b15d044 Update defense deck scenario chart
 * ecca37c Refresh repository evidence
 * 23a1586 Add professional defense deck
 * 533a58d Document repository evidence
 *   e5d2066 Merge development evidence
 |\  
-| * 0ccc479 (development) Add development branch notes
+| * 0ccc479 (origin/development, development) Add development branch notes
 |/  
 * 3461dd8 Initial capstone project structure
 
-Submission note:
-The project folder is organized so it can be pushed to the required public GitHub repository before final Udacity upload.
+Rubric note:
+The public repository includes multiple commits on main and an additional development branch.
