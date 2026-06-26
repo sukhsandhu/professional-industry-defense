@@ -2,6 +2,7 @@ Public GitHub Repository Evidence
 
 Author: Sukh Sandhu
 Repository: https://github.com/sukhsandhu/professional-industry-defense
+Evidence refreshed: 2026-06-26
 
 Branches:
 development
@@ -9,8 +10,10 @@ development
   remotes/origin/development
   remotes/origin/main
 
-Commit history:
-* cf33e3e (HEAD -> main, origin/main) Finalize defense deck and repository evidence
+Substantive commit history:
+* b1133ac Add detailed defense and auditor materials
+* fbf2e68 Add public GitHub repository link
+* cf33e3e Finalize defense deck and repository evidence
 * b15d044 Update defense deck scenario chart
 * ecca37c Refresh repository evidence
 * 23a1586 Add professional defense deck
@@ -22,4 +25,4 @@ Commit history:
 * 3461dd8 Initial capstone project structure
 
 Rubric note:
-The public repository includes multiple commits on main and an additional development branch.
+The public repository includes multiple commits on main and an additional development branch. A final evidence-refresh commit may appear above the material commits because this file is updated after the materials are prepared.
